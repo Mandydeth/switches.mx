@@ -60,6 +60,9 @@ videos:
   -
     item_url: 'https://www.youtube.com/watch?v=xbr0l4UDOkg'
     description: 'Gh60 with Box Whites typing test by Fluffypupper 22'
+  -
+    item_url: 'https://www.youtube.com/watch?v=KEHMZEL1zhU'
+    description: 'Preonic with Box Whites typing test by Mandydeth'
 related_links:
   -
     item_url: 'https://www.reddit.com/r/MechanicalKeyboards/comments/7de612/kailh_box_white_review/'
